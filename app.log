@@ -1,0 +1,43 @@
+2026-06-14 21:53:24,043 - WARNING -  * Debugger is active!
+2026-06-14 21:53:24,048 - INFO -  * Debugger PIN: 113-265-740
+2026-06-14 21:54:28,021 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\login\\app\\routes\\auth_routes.py', reloading
+2026-06-14 22:01:17,563 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-14 22:01:17,564 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-14 22:01:17,566 - INFO -  * Restarting with stat
+2026-06-14 22:01:18,753 - WARNING -  * Debugger is active!
+2026-06-14 22:01:18,759 - INFO -  * Debugger PIN: 113-265-740
+2026-06-14 22:02:21,056 - INFO - 127.0.0.1 - - [14/Jun/2026 22:02:21] "[33mGET /abc HTTP/1.1[0m" 404 -
+2026-06-14 22:02:41,183 - INFO - 127.0.0.1 - - [14/Jun/2026 22:02:41] "[31m[1mPOST /register HTTP/1.1[0m" 409 -
+2026-06-14 22:02:56,258 - INFO - User logged in: john@gmail.com
+2026-06-14 22:02:56,258 - INFO - 127.0.0.1 - - [14/Jun/2026 22:02:56] "POST /login HTTP/1.1" 200 -
+2026-06-14 22:03:54,854 - WARNING - Invalid password attempt: john@gmail.com
+2026-06-14 22:03:54,854 - INFO - 127.0.0.1 - - [14/Jun/2026 22:03:54] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-14 22:04:06,514 - INFO - 127.0.0.1 - - [14/Jun/2026 22:04:06] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2026-06-14 22:04:58,024 - WARNING - Invalid password attempt: john@gmail.com
+2026-06-14 22:04:58,025 - INFO - 127.0.0.1 - - [14/Jun/2026 22:04:58] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-15 11:25:40,100 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-15 11:25:40,109 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-15 11:25:40,110 - INFO -  * Restarting with stat
+2026-06-15 11:25:40,677 - WARNING -  * Debugger is active!
+2026-06-15 11:25:40,679 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 11:28:10,496 - INFO - New user registered: arya@gmail.com
+2026-06-15 11:28:10,497 - INFO - 127.0.0.1 - - [15/Jun/2026 11:28:10] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-06-15 11:28:19,282 - INFO - User logged in: arya@gmail.com
+2026-06-15 11:28:19,283 - INFO - 127.0.0.1 - - [15/Jun/2026 11:28:19] "POST /login HTTP/1.1" 200 -
+2026-06-15 11:29:04,574 - INFO - 127.0.0.1 - - [15/Jun/2026 11:29:04] "GET /profile HTTP/1.1" 200 -
+2026-06-15 11:29:19,386 - INFO - 127.0.0.1 - - [15/Jun/2026 11:29:19] "[33mGET /user HTTP/1.1[0m" 404 -
+2026-06-15 11:29:26,978 - INFO - 127.0.0.1 - - [15/Jun/2026 11:29:26] "GET /profile HTTP/1.1" 200 -
+2026-06-15 11:34:32,718 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\login\\app\\routes\\auth_routes.py', reloading
+2026-06-15 11:34:32,789 - INFO -  * Restarting with stat
+2026-06-15 11:39:33,539 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-15 11:39:33,539 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-15 11:39:33,542 - INFO -  * Restarting with stat
+2026-06-15 11:39:34,674 - WARNING -  * Debugger is active!
+2026-06-15 11:39:34,681 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 11:39:52,919 - INFO - User logged in: arya@gmail.com
+2026-06-15 11:39:52,920 - INFO - 127.0.0.1 - - [15/Jun/2026 11:39:52] "POST /login HTTP/1.1" 200 -
+2026-06-15 11:41:04,350 - INFO - 127.0.0.1 - - [15/Jun/2026 11:41:04] "[31m[1mPOST /profile HTTP/1.1[0m" 405 -
+2026-06-15 11:41:10,881 - INFO - 127.0.0.1 - - [15/Jun/2026 11:41:10] "GET /profile HTTP/1.1" 200 -
